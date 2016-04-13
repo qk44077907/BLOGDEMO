@@ -1,2 +1,2 @@
-# BLOGDEMO
-一个基于VUE的SPA博客DEMO
+# MintloG
+使用Vuejs+Webpack+VueRouter+VueResource搭建的博客SPA
